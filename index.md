@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## DRS - Drone Racing Simulator
 
-You can use the [editor on GitHub](https://github.com/andrey-melnikov/drs-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Download the app for [Android in Google Play](https://play.google.com/store/apps/details?id=com.AndreyMelnikov.DroneRacingSimulator)
+
+Download the app for [IOS in App Store](https://apps.apple.com/us/app/drs-lite/id1468732933)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
